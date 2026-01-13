@@ -17,14 +17,6 @@ Running on a custom-built physics engine powered by Computer Vision.
 
 </div>
 
-## 📸 Visual Demo
-
-> **Note:** The simulation runs in real-time at 30-60 FPS.
-
-![Project Screenshot](demo.jpg)
-*(Pastikan Anda mengupload file screenshot bernama 'demo.jpg' agar gambar ini muncul)*
-
----
 
 ## 🚀 Overview
 

